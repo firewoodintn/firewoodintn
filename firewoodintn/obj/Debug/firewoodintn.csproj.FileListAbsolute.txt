@@ -48,6 +48,5 @@ C:\Projects\firewoodintn\firewoodintn\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\firewoodintn\firewoodintn\bin\System.Web.WebPages.Razor.xml
 C:\Projects\firewoodintn\firewoodintn\bin\Antlr3.Runtime.pdb
 C:\Projects\firewoodintn\firewoodintn\bin\Newtonsoft.Json.xml
-C:\Projects\firewoodintn\firewoodintn\obj\Debug\firewoodintn.csprojResolveAssemblyReference.cache
 C:\Projects\firewoodintn\firewoodintn\obj\Debug\firewoodintn.dll
 C:\Projects\firewoodintn\firewoodintn\obj\Debug\firewoodintn.pdb
